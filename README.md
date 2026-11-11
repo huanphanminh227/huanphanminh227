@@ -3,7 +3,7 @@
   <p><strong>Honors Electrical Engineering Student @ UT Arlington</strong> | Passionate about RTL Design, Digital IC Verification & Embedded Systems</p>
 
   <p>
-    <a href="https://linkedin.com/in/minhhuanphan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="[https://linkedin.com/in/minhhuanphan](https://www.linkedin.com/in/minh-huan-phan-157405306)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:phanminhhuan2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/huanphanminh227"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
