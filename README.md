@@ -16,7 +16,7 @@
 * 🔬 Actively exploring **Digital IC Design (RTL), Verification, and Low-Power Embedded Systems**.
 * 🛠️ Hands-on experience developing bare-metal firmware (C/C++), HDL architectures (VHDL/Verilog), and hardware-in-the-loop validation testbeds.
 * 💬 Ask me about: **Verilog HDL, Microcontrollers (TI MSP430, ESP32, Arduino), Control Systems, and Testbenches**.
-* 🌐 Languages: English (Fluent), French (A1–A2), Vietnamese (Native).
+* 🌐 Languages: English (Fluent), French (Conversational), Vietnamese (Native).
 
 ---
 
